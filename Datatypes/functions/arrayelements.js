@@ -1,0 +1,11 @@
+let a=[100,200,300,400]
+console.log(a.length)
+a.push(500)
+console.log(a)
+console.log(a.length)
+a.pop()
+console.log(a)
+a.unshift(56)
+console.log(a)
+a.shift()
+console.log(a)
